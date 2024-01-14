@@ -1,0 +1,40 @@
+baseURL: 'https://www.thomas-huehn.de/'
+author: Thomas Hühn
+languageCode: 'en'
+title: 'Readings'
+
+assetDir: 'assets'
+dataDir: 'data'
+
+disableHugoGeneratorInject: true
+disableKinds:
+    - section
+    - robotsTXT
+    - 404
+    - taxonomy
+    
+permalinks:
+  post: '/:year/:month/:filename/'
+  page: '/:filename/'
+
+outputFormats:
+    RSS:
+        mediatype: "application/rss"
+        baseName: "feed"
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+        parser:
+            wrapStandAloneImageWithinParagraph: false
+    highlight:
+        style: bw
+        noClasses: false
+
+params:
+    links:
+        - title: "Home"
+          url: "/"
+        - title: "Thomas Hühn"
+          url: "/thomas/"
