@@ -9,7 +9,7 @@ The **SimCity Planning Commission Handbook** by **Johnny L. Wilson** is a slim l
 
 It's also a time capsule of architectural heterogeny of times past. The first chapter of the (still quite slim) book handles installation and usage of the game including the terrain editor, and it discusses a few differences between platforms. Because, see, SimCity was sold for Amiga/Commodore, Atari, Mac and PC, all with subtle differences. For example, there is no stadium on C64. We even get short installation commands, albeit only the happy path.
 
-Strewn throughout the book are helpful tips and ideas about gameplay. You can bulldoze one corner of a residential zome and plant a park there. Doing this you stop the zone from growing further.
+Strewn throughout the book are helpful tips and ideas about gameplay. You can bulldoze one corner of a residential zone and plant a park there. Doing this you stop the zone from growing further.
 
 SimCity is a “real” city simulator, not a mere toy. It is extremely simple by today's standards, but still. There are many things it cannot simulate at all, or not simulate adequately, and the author has taken it upon him to invent little workarounds or sometimes even “house rules” – voluntary restrictions on the part of the player or some creative reinterpretation of certain aspects of the game's simulation. This is the most impressive and valuable thing that the book has to offer. I have never seen anything like that before.
 
