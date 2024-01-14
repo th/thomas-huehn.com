@@ -41,6 +41,6 @@ Additionally, the author critiques both additional cities that come with the ter
 
 Disasters like airplane crashes, flooding, but mostly, of course, Godzilla (officially, the “monster”) are spicing the dry simulation up, and make it more acceptable to gamers. Player's agency is quite limited, though. Mostly you can only wait it out and clean up.
 
-The meat of the book is fewer than 200 pages, dicounting the installation information, explanation of icons and the terrain editor. It feels longer. Not that it's boring, but you get so much out of it. Many other authors could do worse than take inspiration.
+The meat of the book is fewer than 200 pages, discounting the installation information, explanation of icons and the terrain editor. It feels longer. Not that it's boring, but you get so much out of it. Many other authors could do worse than take inspiration.
 
 The only flaw with the book I can find is that maps are reproduced quite well for the standards of 1990, I suppose, but I find them small and the pixel look of SimCity not really good to decipher. Additionally two images of maps on pages 98 and 99 are supposed to show dramatic differences in flooding levels. To me they are identical, and I’m almost certain they are indeed identical, on account of a clerical error when preparing the manuscript.
