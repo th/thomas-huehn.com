@@ -1,11 +1,11 @@
 ---
-title: "SimCity Planning Commission Handbook"
+title: "The SimCity Planning Commission Handbook"
 date: 2024-01-14T16:50:40+01:00
 tags: []
 featured_image: ""
 description: ""
 ---
-The **SimCity Planning Commission Handbook** by **Johnny L. Wilson** is a slim little book that tries a little subterfuge. It acts as a game manual and tips & tricks book, but the author is really interested in the art and engineering of town planning and sneaks that in.
+**The SimCity Planning Commission Handbook** by **Johnny L. Wilson** is a slim little book that tries a little subterfuge. It acts as a game manual and tips & tricks book, but the author is really interested in the art and engineering of town planning and sneaks that in.
 
 It's also a time capsule of architectural heterogeny of times past. The first chapter of the (still quite slim) book handles installation and usage of the game including the terrain editor, and it discusses a few differences between platforms. Because, see, SimCity was sold for Amiga/Commodore, Atari, Mac and PC, all with subtle differences. For example, there is no stadium on C64. We even get short installation commands, albeit only the happy path.
 
