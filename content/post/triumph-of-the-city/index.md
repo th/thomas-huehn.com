@@ -9,7 +9,7 @@ description: ""
 
 Cities provide proximity and density. People work together, they invent together, they build knowledge together. All of that happens more when other people are around. Many people.
 
-Density brings its own problems. Crime and pollution grow when cities get denser (see also (The SimCity Planning Commission Handbook)[/2024/01/simcity/]. Fix that! Do not fight density itself. Dense cities are generally better for the environment, as well. People need less infrastructure, less energy, waste disposal is more efficient, as is public transport, when many people live in a relatively small area.
+Density brings its own problems. Crime and pollution grow when cities get denser (see also [The SimCity Planning Commission Handbook]({{< ref "simcity.md" >}})). Fix that! Do not fight density itself. Dense cities are generally better for the environment, as well. People need less infrastructure, less energy, waste disposal is more efficient, as is public transport, when many people live in a relatively small area.
 
 Glaeser is very clear on one thing: cities aren't necessarily better when they are larger. More housing, more infrastructure than the citizenry needs or is able to support is worth nothing. He is contemptuous about politician's attempts to build their cities out of decline. The sports stadium won't turn things around. The skyscraper won't turn things around.
 
