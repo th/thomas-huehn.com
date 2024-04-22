@@ -1,6 +1,6 @@
 ---
 title: "How to Win Friends & Influence People"
-date: 2014-12-07T00:00:00+01:00
+date: 2015-04-06T00:00:00+01:00
 tags: []
 featured_image: ""
 description: ""
