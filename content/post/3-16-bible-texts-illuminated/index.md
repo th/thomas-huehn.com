@@ -4,6 +4,7 @@ date: 2010-02-23T20:55:36+01:00
 tags: []
 featured_image: ""
 description: ""
+translated: "https://www.thomas-huehn.de/2010/02/316-bible-texts-illuminated/"
 ---
 The Bible, book of books. But few people who aren't already deeply believing have really read large parts of it. Some phrases from it have entered our culture and common vocabulary, but because of its length the Bible can intimidate. Even those who would acknowledge that they should have read it already, if only for its significance for the western world.
 
