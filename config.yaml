@@ -38,3 +38,8 @@ params:
           url: "/"
         - title: "Thomas Hühn"
           url: "/thomas/"
+
+ignoreFiles:
+    - \.jpg$
+    - \.png$
+    - \.svg$
