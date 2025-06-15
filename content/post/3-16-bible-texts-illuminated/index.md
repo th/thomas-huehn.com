@@ -1,10 +1,10 @@
 ---
 title: "3:16 Bible Texts Illuminated"
 date: 2010-02-23T20:55:36+01:00
-tags: []
-featured_image: ""
-description: ""
-translated: "https://www.thomas-huehn.de/2010/02/316-bible-texts-illuminated/"
+tags: ["book", "religion"]
+translated: "https://www.thomas-huehn.de/316-bible-texts-illuminated/"
+aliases:
+  - /2010/02/3-16-bible-texts-illuminated/
 ---
 The Bible, book of books. But few people who aren't already deeply believing have really read large parts of it. Some phrases from it have entered our culture and common vocabulary, but because of its length the Bible can intimidate. Even those who would acknowledge that they should have read it already, if only for its significance for the western world.
 
@@ -38,4 +38,4 @@ My conclusion: Worth a read. But especially worth a look.
 
 Knuth is an amateur theologian, at best, even spending lots of time in libraries. You cannot expect special discoveries of theological nature. But he succeeds in establishing some understanding for those times and in placing biblical stories in historical context.
 
-The calligraphies are book's real climax. And this unorthodox approach to the Bible focusses the eye on verses that wouldn't find much attention otherwise.
+The calligraphies are the book's real climax. And this unorthodox approach to the Bible focusses the eye on verses that wouldn't find much attention otherwise.

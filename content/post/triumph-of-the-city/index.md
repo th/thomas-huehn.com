@@ -1,15 +1,15 @@
 ---
 title: "Triumph of the City"
 date: 2024-03-27T19:55:00+01:00
-tags: []
-featured_image: ""
-description: ""
+tags: ["book", "urbanism"]
+aliases:
+  - /2024/03/triumph-of-the-city/
 ---
-**Triumph of the City** is an unabashed apologia of cities and metropolises. **Edward Glaeser** finds the good in even the most squalid, stinking slum. Because he claims that it is still better than the alternative. Urban poverty is abhorrent to watch, but rural poverty is brutal. And people living in the slums in a developing country don't have a plane ticket to a European country with social security as an alternative. Their alternative is suffering and dying in the countryside. Where we don't have to see it. Why is there so much poverty in these metropolises? Because it still draws people who want to impriove their lives. The abject poverty isn't a sign that cities are failing, it's a sign that cities are working.
+**Triumph of the City** is an unabashed apologia of cities and metropolises. **Edward Glaeser** finds the good in even the most squalid, stinking slum. Because he claims that it is still better than the alternative. Urban poverty is abhorrent to watch, but rural poverty is brutal. And people living in the slums in a developing country don't have a plane ticket to a European country with social security as an alternative. Their alternative is suffering and dying in the countryside. Where we don't have to see it. Why is there so much poverty in these metropolises? Because it still draws people who want to improve their lives. The abject poverty isn't a sign that cities are failing, it's a sign that cities are working.
 
 Cities provide proximity and density. People work together, they invent together, they build knowledge together. All of that happens more when other people are around. Many people.
 
-Density brings its own problems. Crime and pollution grow when cities get denser (see also [The SimCity Planning Commission Handbook]({{< ref "simcity.md" >}})). Fix that! Do not fight density itself. Dense cities are generally better for the environment, as well. People need less infrastructure, less energy, waste disposal is more efficient, as is public transport, when many people live in a relatively small area.
+Density brings its own problems. Crime and pollution grow when cities get denser (see also [The SimCity Planning Commission Handbook](/simcity/). Fix that! Do not fight density itself. Dense cities are generally better for the environment, as well. People need less infrastructure, less energy, waste disposal is more efficient, as is public transport, when many people live in a relatively small area.
 
 Glaeser is very clear on one thing: cities aren't necessarily better when they are larger. More housing, more infrastructure than the citizenry needs or is able to support is worth nothing. He is contemptuous about politician's attempts to build their cities out of decline. The sports stadium won't turn things around. The skyscraper won't turn things around.
 

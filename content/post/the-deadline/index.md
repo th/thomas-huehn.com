@@ -1,9 +1,10 @@
 ---
 title: "The Deadline"
 date: 2014-12-07T00:00:00+01:00
-tags: []
-featured_image: ""
-description: ""
+tags: ["book", "project management"]
+translated: "https://www.thomas-huehn.de/the-deadline/"
+aliases:
+  - /2014/12/the-deadline/
 ---
 **The Deadline** by **Tom DeMarco** is a real project management classic. I had bought it quite some time ago, but it collected dust on the shelf, despite the fact that I had enjoyed his book “Peopleware”. Turns out, it was a mistake. The collecting dust, not the reading, mind you.
 

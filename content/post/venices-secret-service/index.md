@@ -1,9 +1,9 @@
 ---
 title: "Venice's Secret Service"
 date: 2024-01-14T16:51:31+01:00
-tags: []
-featured_image: ""
-description: ""
+tags: ["book", "cryptography"]
+aliases:
+  - /2024/01/venices-secret-service/
 ---
 **Venice's Secret Service** by **Ioanna Iordanou** undertakes to show that organized intelligence is not – as commonly thought – an invention of the modern industrial state, but already existed in Renaissance Venice of the 1500s and early 1600s.
 

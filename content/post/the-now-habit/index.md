@@ -1,9 +1,10 @@
 ---
 title: "The Now Habit"
 date: 2015-04-05T00:00:00+01:00
-tags: []
-featured_image: ""
-description: ""
+tags: ["book", "procrastination"]
+translated: "https://www.thomas-huehn.de/the-now-habit/"
+aliases:
+  - /2015/04/the-now-habit/
 ---
 **The Now Habit** by **Neil Fiore** is a self-help book about understanding and overcoming procrastination.
 

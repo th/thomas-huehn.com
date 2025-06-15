@@ -1,9 +1,9 @@
 ---
 title: "Wool"
 date: 2014-12-29T00:00:00+01:00
-tags: []
-featured_image: ""
-description: ""
+tags: ["book"]
+aliases:
+  - /2014/12/wool/
 ---
 **Wool** by **Hugh Howey** is a dystopian science fiction novella, originally self-published for Amazon Kindle. It started as a short story, but expanded into more parts, finally got published as an Omnibus edition, and gained a prequel (Shift).
 

@@ -1,9 +1,9 @@
 ---
 title: "How to Win Friends & Influence People"
 date: 2015-04-06T00:00:00+01:00
-tags: []
-featured_image: ""
-description: ""
+tags: ["book", "social skills"]
+aliases:
+  - /2015/04/how-to-win-friends-and-influence-people/
 ---
 **How to Win Friends & Influence People** by **Dale Carnegie** is a classic self-help book about social skills.
 

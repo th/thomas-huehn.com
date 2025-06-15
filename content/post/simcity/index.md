@@ -1,9 +1,9 @@
 ---
 title: "The SimCity Planning Commission Handbook"
 date: 2024-01-14T16:50:40+01:00
-tags: []
-featured_image: ""
-description: ""
+tags: ["book", "computer game", "urbanism"]
+aliases:
+  - /2024/01/simcity/
 ---
 **The SimCity Planning Commission Handbook** by **Johnny L. Wilson** is a slim little book that tries a little subterfuge. It acts as a game manual and tips & tricks book, but the author is really interested in the art and engineering of town planning and sneaks that in.
 
@@ -27,9 +27,9 @@ The author is hand-holding a lot with these experiments, though. You don't have 
 
 As mentioned, the game manual is mostly a set-up, a hook for the author to tell us some things about city planning. We see maps of Karlsruhe's planned radial layout, of Aosta in the first century B.C., of London before the Great Fire. Wilson shows a few – very limited – options in the game to do similar planning. But SimCity can simulate growth pains in regards to ecology and traffic surprisingly well. Also, population density problems in the game cannot be solved simply, by bulldozing and redesigning willy-nilly, the player needs to have a plan that includes handling crime, pollution and economic growth. All these intertwined aspects are explained and shown in the book all the time, because whenever one problem is tackled, the others tend to follow close after.
 
-One aspect that is easily misunderstood is that building decay is not a consequence of some property of the building. Bulldozing the building will not let the zone recover with new buildings. Some players seem to have thought that low churches, occurring randomly in residential zones, should be bulldozed when low-valued. Wilson warns us that this has cause and effect exactly backwards: low-value churches aren't bad, bad land value leads to low church value, and land value must be improved holistically, tackling crime, pollution, etc., as always.
+One aspect that is easily misunderstood is that building decay is not a consequence of some property of the building. Bulldozing the building will not let the zone recover with new buildings. Some players seem to have thought that churches, occurring randomly in residential zones, should be bulldozed when low-valued. Wilson warns us that this has cause and effect exactly backwards: low-value churches aren't bad, bad land value leads to low church value, and land value must be improved holistically, tackling crime, pollution, etc., as always.
 
-Regarding the economy: SimCity has both an export multiplier and an import replacement multiplier, where seaports (which are much more important than airports in the game) have large effects on the city. But at a certain size of the city, the city-internal economy starts to trump the external (export) economy, and the book draws back the curtain between the game's internal calculations, as it does in several places.
+Regarding the economy: SimCity has both an export multiplier and an import replacement multiplier, where seaports (which are much more important than airports in the game) have large effects on the city. But at a certain size of the city, the city-internal economy starts to trump the external (export) economy, and the book draws back the curtain behind the game's internal calculations, as it does in several places.
 
 Traffic is the most fleshed-out part of the simulation, but it is very much centered on cars and light rail, not offering any further traffic options. More streets equals more traffic is a valid theorem in SimCity, as it is in real life, and curves slow down traffic, so your “scenic route” might bring your city to a standstill.
 

@@ -1,9 +1,9 @@
 ---
 title: "The Inner Game of Tennis"
 date: 2024-03-08T14:00:00+01:00
-tags: []
-featured_image: ""
-description: ""
+tags: ["book", "tennis", "sports"]
+aliases:
+  - /2024/08/inner-game-of-tennis/
 ---
 **W. Timothy Gallwey** ostensibly explains in **The Inner Game of Tennis** how to get better at playing Tennis,
 and he did work as a tennis instructor after his career as a varsity player. But tennis is just a vehicle for explaining his principles which are applicable to all psychomotor skills and beyond. Consequently he cashed in on variations of this book in “The Inner Game of Golf”, “The Inner Game of Skiing” and even “The Inner Game of Music”.
