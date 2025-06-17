@@ -1,8 +1,8 @@
 ---
-title: "3:16 Bible Texts Illuminated"
+title: '3:16 Bible Texts Illuminated'
 date: 2010-02-23T20:55:36+01:00
 tags: ["book", "religion"]
-translated: "https://www.thomas-huehn.de/316-bible-texts-illuminated/"
+translated: 'https://www.thomas-huehn.de/316-bible-texts-illuminated/'
 aliases:
   - /2010/02/3-16-bible-texts-illuminated/
 ---

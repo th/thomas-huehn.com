@@ -1,5 +1,5 @@
 ---
-title: "Wool"
+title: 'Wool'
 date: 2014-12-29T00:00:00+01:00
 tags: ["book"]
 aliases:

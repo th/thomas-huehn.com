@@ -1,5 +1,5 @@
 ---
-title: "The Inner Game of Tennis"
+title: 'The Inner Game of Tennis'
 date: 2024-03-08T14:00:00+01:00
 tags: ["book", "tennis", "sports"]
 aliases:

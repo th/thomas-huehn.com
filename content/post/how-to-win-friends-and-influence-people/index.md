@@ -1,5 +1,5 @@
 ---
-title: "How to Win Friends & Influence People"
+title: 'How to Win Friends & Influence People'
 date: 2015-04-06T00:00:00+01:00
 tags: ["book", "social skills"]
 aliases:

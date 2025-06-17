@@ -1,5 +1,5 @@
 ---
-title: "Triumph of the City"
+title: 'Triumph of the City'
 date: 2024-03-27T19:55:00+01:00
 tags: ["book", "urbanism"]
 aliases:
