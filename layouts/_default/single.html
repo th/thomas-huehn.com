@@ -19,6 +19,13 @@
           </p>
         {{- end -}}
         </div>
+        {{- if .Params.tags -}}
+        <div class="tags-inline">
+          {{- range .Params.tags -}}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+          {{- end -}}
+        </div>
+        {{- end -}}
     </div>
     </header>
       {{- .Content -}}
