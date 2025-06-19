@@ -1,7 +1,7 @@
 baseURL: 'https://www.thomas-huehn.com/'
 author: Thomas Hühn
 languageCode: 'en'
-title: 'Readings'
+title: 'Discoveries'
 
 assetDir: 'assets'
 dataDir: 'data'
