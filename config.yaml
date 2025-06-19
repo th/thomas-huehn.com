@@ -33,6 +33,7 @@ markup:
         noClasses: false
 
 params:
+    description: "Reading notes and thoughts by Thomas Hühn - Book reviews, technical insights, and personal reflections"
     links:
         - title: "Home"
           url: "/"
