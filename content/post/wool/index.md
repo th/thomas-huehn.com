@@ -1,5 +1,6 @@
 ---
 title: 'Wool'
+description: "A dystopian novella about people living underground in a metal tube."
 date: 2014-12-29T00:00:00+01:00
 tags:
   - book

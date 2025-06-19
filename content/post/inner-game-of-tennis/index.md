@@ -1,5 +1,6 @@
 ---
 title: 'The Inner Game of Tennis'
+description: "Learning motor skills without judgment."
 date: 2024-03-08T14:00:00+01:00
 tags:
   - book

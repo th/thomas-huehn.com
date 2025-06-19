@@ -1,5 +1,6 @@
 ---
 title: 'The Deadline'
+description: "A project management novel."
 date: 2014-12-07T00:00:00+01:00
 tags:
   - book
