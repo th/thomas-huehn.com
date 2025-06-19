@@ -2,6 +2,7 @@ baseURL: 'https://www.thomas-huehn.com/'
 author: Thomas Hühn
 languageCode: 'en'
 title: 'Discoveries'
+theme: 'hugo-theme-th'
 
 assetDir: 'assets'
 dataDir: 'data'
