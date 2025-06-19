@@ -1,6 +1,6 @@
 ---
-title: 'Beautifully illustrated children's books'
-description: "I curated a list of beautifully illustrated childrens' books.."
+title: "Beautifully illustrated children's books"
+description: "I curated a list of beautifully illustrated childrens' books."
 date: 2019-08-11T22:00:00+00:00
 tags:
   - book

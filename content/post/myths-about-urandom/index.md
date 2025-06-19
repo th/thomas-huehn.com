@@ -109,7 +109,7 @@ So just use those computationally-secure random numbers for your computationally
 
 Chances are, your idea of the kernel’s random number generator is something similar to this:
 
-![Mythical structure of the kernel’s random number generator](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/structure-no.png)
+![Mythical structure of the kernel’s random number generator](./structure-no.png)
 
 Mythical structure of the kernel’s random number generator
 
@@ -129,7 +129,7 @@ Devilish, right? Unfortunately, also utterly wrong. In reality, the internal str
 
 ### A better simplification
 #### Before Linux 4.8
-![Actual structure of the kernel’s random number generator before Linux 4.8](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/structure-yes.png)
+![Actual structure of the kernel’s random number generator before Linux 4.8](./structure-yes.png)
 
 Actual structure of the kernel’s random number generator before Linux 4.8
 
@@ -151,7 +151,7 @@ So to make one thing crystal clear: both /dev/random and /dev/urandom are fed by
 
 In Linux 4.8 the equivalency between /dev/urandom and /dev/random was given up. Now /dev/urandom output does not come from an entropy pool, but directly from a CSPRNG.
 
-![Actual structure of the kernel’s random number generator from Linux 4.8 onward](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/structure-new.png)
+![Actual structure of the kernel’s random number generator from Linux 4.8 onward](./structure-new.png)
 
 Actual structure of the kernel’s random number generator from Linux 4.8 onward
 

@@ -183,7 +183,7 @@ Let's check it:
 
 Again as a diagram:
 
-![Evaluating Part One of Calibrated Estimates](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/kalibriertesschaetzen.png)
+![Evaluating Part One of Calibrated Estimates](kalibriertesschaetzen.png)
 
 Evaluating Part One of Calibrated Estimates
 

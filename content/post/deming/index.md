@@ -84,7 +84,7 @@ Much of what Deming is known for already existed in some form or another with Sh
 
 Plan – Do – Check – Act. A staple of project management. Also called the PDCA cycle, the Scrum sprint or – wait for it – the Deming cycle.
 
-![Plan – Do – Check – Act](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/deming-cycle-squoosh.png)
+![Plan – Do – Check – Act](deming-cycle-squoosh.png)
 
 Deming himself always called that concept the Shewhart cycle.
 
@@ -108,7 +108,7 @@ But what else are you supposed to do?
 
 The production process can be modelled using a production function P(μ,σ), which is distributed approximately normally, with μ as the mean and σ as the standard deviation of the distribution.
 
-![Production function and Loss function](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/non-centered.jpg)
+![Production function and Loss function](non-centered.jpg)
 
 Production function and Loss function
 
@@ -132,7 +132,7 @@ A new function f(μ,σ) now combines the production and loss function, by multip
 I would think you need a bit more machinery, like a real convolution, wouldn’t you? But Deming shows a multiplication, unless I have misunderstood the notation.
 </aside>
 
-![centered](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/centered-1.jpg)
+![centered](centered-1.jpg)
 
 Production function and Loss function
 
@@ -188,7 +188,7 @@ The first strategy was precisely what he recommends for common cause errors: “
 
 The resulting pattern looks circular, and fairly small:
 
-![The resulting pattern looks circular, and fairly small.](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/strategy1.jpg)
+![The resulting pattern looks circular, and fairly small.](strategy1.jpg)
 
 The second strategy was what many people do: correct the funnel for a perceived bias. If a ball hit at point H, and that point H was three millimeters left of the target point T, move the funnel three millimeters to the right. The new target point T’ is therefore three millimeters to the right of the old target point T.
 
@@ -196,19 +196,19 @@ This is like shooting artillery. You overshot the enemy? Aim shorter the next ti
 
 The resulting pattern is still circular, but around 30% larger in area:
 
-![The resulting pattern is still circular, but around 30% larger in area.](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/strategy2.jpg)
+![The resulting pattern is still circular, but around 30% larger in area.](strategy2.jpg)
 
 The third strategy is similar to the second, except you don’t compare the hit point H to the last target point T, but always to the original target point in the middle of the paper.
 
 The resulting pattern looks a bit like a propeller, the target point oscillates between two sectors, and the whole experiment diverges, that is, the error gets larger and larger:
 
-![The resulting pattern looks a bit like a propeller, the target point oscillates between two sectors, and the whole experiment diverges, that is, the error gets larger and larger.](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/strategy3.jpg)
+![The resulting pattern looks a bit like a propeller, the target point oscillates between two sectors, and the whole experiment diverges, that is, the error gets larger and larger.](strategy3.jpg)
 
 The fourth strategy looks equally wild. You just target the last hit point, so T’ = H. Why would you do that? You wouldn’t, of course, in this experiment. But it is pretty much the game of telephone. You aim for what the last person told you. Or, in other words, this is teaching someone, without a common and stable textbook. When one machine operator teaches his successor, the successor gets most of it, but not quite all. When this operator now teaches his successor, and the original operator is no longer around, your training diverges, just as those balls do here.
 
 And the resulting pattern looks just like it: it diverges fast, and generally in one direction, there isn’t much zig-zagging around:
 
-![And the resulting pattern looks just like it: it diverges fast, and generally in one direction, there isn’t much zig-zagging around.](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/strategy4.jpg)
+![And the resulting pattern looks just like it: it diverges fast, and generally in one direction, there isn’t much zig-zagging around.](strategy4.jpg)
 
 So it is crucial to treat common errors with process improvement, and special errors with, well, special action. But how do you distinguish between those two kinds? It wouldn’t help to know it only in hindsight, from the success or failure of the treatment.
 
@@ -218,7 +218,7 @@ Common causes and special causes can be distinguished mathematically. The basis 
 
 The y axis depicts a continuous measurement, the target line corresponds to the ideal. There is an upper control limit UCL and a lower control limit LCL. Both sit at +3σ and -3σ, respectively.
 
-![Control chart](https://bear-images.sfo2.cdn.digitaloceanspaces.com/discoveries/controlchart.jpg)
+![Control chart](controlchart.jpg)
 
 Control chart
 
