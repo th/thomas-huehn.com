@@ -1,7 +1,9 @@
 ---
 title: 'The Deadline'
 date: 2014-12-07T00:00:00+01:00
-tags: ["book", "project management"]
+tags:
+  - book
+  - project management
 aliases:
   - /2014/12/the-deadline/
 ---

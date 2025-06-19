@@ -1,7 +1,9 @@
 ---
 title: '3:16 Bible Texts Illuminated'
 date: 2010-02-23T20:55:36+01:00
-tags: ["book", "religion"]
+tags:
+  - book
+  - religion
 aliases:
   - /2010/02/3-16-bible-texts-illuminated/
 ---

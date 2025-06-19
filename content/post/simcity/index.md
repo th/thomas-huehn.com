@@ -1,7 +1,10 @@
 ---
 title: 'The SimCity Planning Commission Handbook'
 date: 2024-01-14T16:50:40+01:00
-tags: ["book", "computer game", "urbanism"]
+tags:
+  - book
+  - computer game
+  - urbanism
 aliases:
   - /2024/01/simcity/
 ---

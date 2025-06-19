@@ -1,7 +1,10 @@
 ---
 title: 'The Inner Game of Tennis'
 date: 2024-03-08T14:00:00+01:00
-tags: ["book", "tennis", "sports"]
+tags:
+  - book
+  - tennis
+  - sports
 aliases:
   - /2024/08/inner-game-of-tennis/
 ---

@@ -1,7 +1,9 @@
 ---
 title: 'The Now Habit'
 date: 2015-04-05T00:00:00+01:00
-tags: ["book", "procrastination"]
+tags:
+  - book
+  - procrastination
 aliases:
   - /2015/04/the-now-habit/
 ---

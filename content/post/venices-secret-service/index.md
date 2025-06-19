@@ -1,7 +1,9 @@
 ---
 title: "Venice's Secret Service"
 date: 2024-01-14T16:51:31+01:00
-tags: ["book", "cryptography"]
+tags:
+  - book
+  - cryptography
 aliases:
   - /2024/01/venices-secret-service/
 ---
