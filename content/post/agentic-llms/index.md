@@ -1,6 +1,6 @@
 ---
 title: "Agentic LLMs"
-description: ""
+description: "Experiences with Claude Code"
 date: 2025-06-19T18:24:52+00:00
 tags:
   - llm
