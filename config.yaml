@@ -48,8 +48,6 @@ params:
     links:
         - title: "Home"
           url: "/"
-        - title: "Thomas Hühn"
-          url: "/thomas/"
 
 ignoreFiles:
     - \.jpg$
