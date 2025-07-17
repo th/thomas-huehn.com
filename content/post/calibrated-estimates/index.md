@@ -6,6 +6,7 @@ tags:
   - estimation
   - project management
   - psychology
+favorite: true
 ---
 ## Why?
 We are often required to supply estimates. Project managers would like us to say how long a task will take. That number should be on firm grounding. Sometimes we need to say a single number, sometimes a range like “best case – average case – worst case”.

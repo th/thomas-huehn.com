@@ -5,6 +5,7 @@ date: 2014-03-01T23:00:00+00:00
 tags:
   - european union
   - law
+favorite: true
 ---
 In product development in the EU today, the requirement to conform with EU directives and other legal statutes is pervasive.
 

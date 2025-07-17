@@ -5,6 +5,7 @@ date: 2014-03-15T23:00:00+00:00
 tags:
   - linux
   - cryptography
+favorite: true
 ---
 <aside>
 <strong>Note from 2024:</strong> This article was published in 2014. It is still correct in its discussion of entropy and randomness, but the Linux kernel random number generator has been reworked several times since then and does not look like this anymore. Good news: the separation between /dev/urandom and /dev/random is practically gone. 

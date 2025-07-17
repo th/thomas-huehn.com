@@ -7,6 +7,7 @@ tags:
   - quality
   - statistics
   - systems thinking
+favorite: true
 ---
 # Introduction
 
