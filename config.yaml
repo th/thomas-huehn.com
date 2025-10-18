@@ -4,6 +4,8 @@ languageCode: 'en'
 title: 'Discoveries'
 theme: 'hugo-theme-th'
 
+titleCaseStyle: none
+
 assetDir: 'assets'
 dataDir: 'data'
 
