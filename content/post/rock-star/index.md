@@ -6,7 +6,6 @@ tags:
   - work
   - language
 aliases: []
-featured_image: ""
 ---
 Hyper-masculine attributions to a certain class of employees like “rock star” or “ninja developer” are commonplace.
 But the rock star phrase has taken a life on its own. Originally it meant something else, which is a facet worth preserving. Think geology, not music business.

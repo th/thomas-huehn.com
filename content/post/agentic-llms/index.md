@@ -5,7 +5,6 @@ date: 2025-06-19T18:24:52+00:00
 tags:
   - llm
 aliases: []
-featured_image: ""
 ---
 I feel a bit late to the party, but after some time with Claude Code, I like agentic LLM systems. It’s really no comparison to CoPilot or a web chat interface.
 
