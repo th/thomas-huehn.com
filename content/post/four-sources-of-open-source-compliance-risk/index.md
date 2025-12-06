@@ -11,7 +11,7 @@ There are four directions from which you may get in legal trouble when you’re 
 
 2. The big source in practice is **customers.** While it used to be that most customers were pretty laissez-faire in their contractual work regarding Open Source software contained in the products they buy, and even less interested in actually auditing that, at least the big companies have professionalized Open Source license compliance tremendously, building half-automated workflows, defining strict (and sometimes burdensome) requirements in contracts, and dragging their whole supply chain with them. The current SBOM implementation phase is also contributing to that.
 
-3. Surprising to me, **competitors** are out of the picture in practice. While accusations of unfair business practices are at least a colorable argument, when your competitor expends time, energy and money into compliance work, but you don’t, there don’t seem to be any law suits about it, at least in Germany.
+3. Surprising to me, **competitors** are out of the picture in practice. While accusations of unfair business practices are at least a colorable argument, when your competitor expends time, energy and money into compliance work, but you don’t, there don’t seem to be any lawsuits about it, at least in Germany.
 
     I think the common argument in the form “I don’t hurt you, so you don’t hurt me” isn’t really an explanation, because it would also cover patent litigation. And that happens all the time.
 
