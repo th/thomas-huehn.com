@@ -50,6 +50,8 @@ params:
     links:
         - title: "Home"
           url: "/"
+        - title: "German blog"
+          url: "//thomas-huehn.de"
 
 ignoreFiles:
     - \.jpg$
