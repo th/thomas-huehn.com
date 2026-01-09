@@ -4,7 +4,7 @@ date: 2025-12-21T07:47:58+01:00
 tags:
   - book
   - computer game
-description: []
+description: "A book from the golden times of PC literature."
 aliases: []
 draft: false
 ---

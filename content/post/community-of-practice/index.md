@@ -2,6 +2,9 @@
 title: 'Community of Practice'
 description: "The Community of Practice: a misunderstood concept."
 date: 2025-01-28T16:42:00+00:00
+tags:
+  - work
+  - learning
 ---
 In the late eighties, an anthropology professor and her doctoral student investigated traditional master–apprentice relationships in the training of several vocations: native Mexican midwives, west-African tailors, British quartermasters, and – to shake things up – a group of Alcoholics Anonymous as a kind of non-vocational training control group.
 
