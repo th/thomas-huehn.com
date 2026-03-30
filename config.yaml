@@ -46,6 +46,9 @@ markup:
         noClasses: false
 
 params:
+    author:
+        email: "mail@thomas-huehn.com"
+        name: "Thomas Hühn"
     description: "Personal web site of Thomas Hühn"
     links:
         - title: "Home"
