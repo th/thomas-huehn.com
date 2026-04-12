@@ -26,4 +26,4 @@ That's why the Memo field says “E1”: Computer Modern Typefaces is Volume E i
 
 I have censored the check slightly, because Knuth is afraid someone might do bad things with those numbers, and he hasn't been handing out real checks for many years now. Today you get a fantasy certificate of a fantasy bank, the [Bank of San Serriffe](https://www-cs-faculty.stanford.edu/~knuth/boss.html).
 
-But why will you find me there with the entry “0x$1.20”, i.e. decimal $2.88? A few years later I sent in another proposed error, but I was wrong. Knuth actually wrote a few paragraphs why exactly I'm wrong, but because he counted some throwaway sentence in my bug report as a good suggestion, and I got another check for $0.32.
+But why will you find me there with the entry “0x$1.20”, i.e. decimal $2.88? A few years later I sent in another proposed error, but I was wrong. Knuth actually wrote a few paragraphs why exactly I'm wrong, but because he counted some throwaway sentence in my bug report as a good suggestion, I got another check for $0.32.
