@@ -32,3 +32,5 @@ I tend to “no”, because I see it at a one-time code drop, I wouldn't have th
 But the issue of “commercial activities” on a “sustained basis” makes companies generally nervous. It is indeed not clear at all if you can just put out a code drop and forget about it if you intend to use that component on an ongoing basis.
 
 Starting December 2027 we are going to see how companies decide to handle it in practice.
+
+**Answers** I found later: https://www.thomas-huehn.com/upstreaming-patches-and-cra/
