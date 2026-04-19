@@ -7,6 +7,7 @@ description: "Twenty years ago I got a reward check from Donald Knuth."
 image: "knuth.scheck-256.jpg"
 aliases: []
 draft: false
+favorite: true
 ---
 It's been twenty years now that I've gotten one of the best letters ever. Donald Knuth confirmed the error I had found in one of his books and sent me [the coveted check!](https://en.wikipedia.org/wiki/Knuth_reward_check)
 
