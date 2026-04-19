@@ -17,7 +17,7 @@ These are some things I heard (and some things I said) at last week‘s OpenChai
 **What I heard:** what we’re trying: every customer can get his money back, if he finds only one flaw in license compliance
 
 **What I heard regarding the chardet issue:** we believe courts will look at the process, not just the results<br>
-This is speculative.
+*This is speculative.*
 
 **What I heard:** Samsung is very good with Open Source license compliance for their phones. You write them asking for source code, and get a 3 GB source code archive, no questions asked.<br>
 **What I heard:** Another participant confirming that experience<br>
@@ -42,7 +42,7 @@ That means you should talk to your suppliers. But what I thought is, yeah, if yo
 **What I heard:** fast-fashion software.<br>
 This term does not refer to vibe-coding, but to the practice of dropping code and not caring about further maintenance.<br>
 **What I heard:** You create it and you dump it after release.<br>
-This was in the context of the Software Defined Vehicle, and it made me gulp.
+*This was in the context of the Software Defined Vehicle, and it made me gulp.*
 
 **What I heard:** I’m not a fan of responding to complexity with complexity.<br>
 **What I heard:** But we must fight AI (offensive) with AI (defensive). There is no other way.<br>
