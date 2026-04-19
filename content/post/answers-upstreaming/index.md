@@ -29,10 +29,10 @@ own licence.
 
 **If the original project (say, the GitHub project) is gone, what do you do?**
 
-> “Finally, manufacturers are also not required to report the vulnerability upstream where
+> Finally, manufacturers are also not required to report the vulnerability upstream where
 the component no longer has a maintainer, or when the manufacturer has itself
 duplicated (‘forked’) the free and open-source component and no longer relies on the
-original maintainer for new versions or security fixes.”
+original maintainer for new versions or security fixes.
 
 **If the original project is still there, but looks like it has been inactive for years, is sending a pull request or creating a bugtracker issue enough for CRA compliance?**
 
