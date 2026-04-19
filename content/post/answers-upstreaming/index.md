@@ -38,7 +38,7 @@ original maintainer for new versions or security fixes.”
 
 I'd consider that to fall under the provisions of the previous passage, as well.
 
-**f the project is still there, has been active fairly recently, but never replies or acknowledges your security fix, do you have an obligation to enquire further?**
+**If the project is still there, has been active fairly recently, but never replies or acknowledges your security fix, do you have an obligation to enquire further?**
 
 > However, manufacturers are not required by the CRA to ensure that their security fixes
 are necessarily accepted by the person or entity manufacturing or maintaining the
