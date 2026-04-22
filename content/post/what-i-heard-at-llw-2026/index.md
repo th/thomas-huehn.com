@@ -26,7 +26,7 @@ These are some things I heard at last week‘s FSFE Legal & Licensing Workshop i
 **What I heard:** Vizio has challenged the tentative ruling, so the third-party beneficiary doctrine is still in play.<br>
 *The tentative ruling was mostly a win for Software Freedom Conservancy, but it was declining to apply the third-party beneficiary doctrine for procedural reasons. But that is the whole point of the lawsuit!*
 
-**What I heard:** Lawyers' comments on [Chan-jo Jun's lawsuit](https://www.thomas-huehn.de/lizenzverstoss-als-rechtsmangel/) about the Chinese electric car ranged from “I would argue exactly the same way” to “it's not that simple, and the case looks like marketing for the law firm to me.”<br>
+**What I heard:** Lawyers' comments on [Chan-jo Jun's lawsuit](https://www.thomas-huehn.com/what-i-heard-at-openchain-friends-2026/#open-source) about the Chinese electric car ranged from “I would argue exactly the same way” to “it's not that simple, and the case looks like marketing for the law firm to me.”<br>
 *I cannot offer a well-founded opinion myself.*<br>
 **What I heard:** The Chinese automotive industry has been alerted by that case.
 
@@ -48,8 +48,8 @@ These are some things I heard at last week‘s FSFE Legal & Licensing Workshop i
 You could re-implement the Apache webserver using AI, but why would you? Maybe trusted communities become more important.
 
 **What I heard:** Marking/tagging of AI-generated code is important.Developers don't like source code comments, because it clutters the source, so they use commit messages and pull request messages.<br>
-**What I heard:** This works only if inserted automatiacally, so that the deduction “no tag --> written by human” is correct.<br>
-*I repeatedly [talked about that,](https://www.thomas-huehn.com/what-i-heard-at-openchain-friends-2026/#ai) and it's the second time I've heard of a company doing that. The speaker strongly suggested everyone apply this strategy.*<br>
+**What I heard:** This works only if inserted automatically, so that the deduction “no tag --> written by human” is correct.<br>
+*I [repeatedly](https://www.thomas-huehn.com/protecting-copyright-with-ai/) talked [about that,](https://www.thomas-huehn.com/what-i-heard-at-openchain-friends-2026/#ai) and it's the second time I've heard of a company doing that. The speaker strongly suggested everyone apply this strategy.*<br>
 **What I heard:** When the whole file is AI-generated, best not include a copyright header.<br>
 **What I heard:** It also has copyright registration implications<br>
 *In America copyright needs to be registered if you want to sue. I think that registration can also be done retroactively. But registering your copyright you are asked for AI contributions.*
