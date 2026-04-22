@@ -33,7 +33,7 @@ These are some things I heard at last week‘s FSFE Legal & Licensing Workshop i
 **What I said:** “With the CRA requiring manufacturers to upstream security fixes, and the draft guidance requiring them to use a “license acceptable to the project”, isn't that kind of the first statutory copyleft?”<br>
 *All of the lawyers I asked laughed and agreed. [I'm aware there are nuances,](https://www.thomas-huehn.com/statutory-copyleft/) and it is only half-serious, but I stand by it.*
 
-**What I said:** A technology lawyer stood up, telling his experience with AI rejecting his prompt presumably for copyright reasons, and said it was his [“printer moment”,](https://www.fsf.org/blogs/community/201cthe-printer-story201d-redux-a-testimonial-about-the-injustice-of-proprietary-firmware) and that he now understood the philosophical underpinnings of Free Software much better.
+**What I heard:** A technology lawyer stood up, telling his experience with AI rejecting his prompt presumably for copyright reasons, and said it was his [“printer moment”,](https://www.fsf.org/blogs/community/201cthe-printer-story201d-redux-a-testimonial-about-the-injustice-of-proprietary-firmware) and that he now understood the philosophical underpinnings of Free Software much better.
 
 # AI
 **What I heard:** AI-generated code will probably turn out to be non-copyrightable.<br>
