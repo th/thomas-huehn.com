@@ -6,6 +6,8 @@ tags:
   - open source
   - sbom
   - security
+  - llm
+  - law
 description: "Stuff people said at OpenChain & Friends 2026."
 image: ""
 aliases: []
@@ -24,7 +26,7 @@ These are some things I heard (and some things I said) at last week‘s OpenChai
 **What I heard:** Huawei is also very good in that regard.
 
 **What I heard:** If you only distribute a Dockerfile, not the software itself, do you need to distribute compliance artefacts for the software?<br>
-The whole questions revolves around who is in control of the software download (=distribution). It happens on the user‘s PC, after the user issues a “docker build”, but if you assign control over downloading to the Dockerfile‘s author (and there‘s a good argument to be made), the Dockerfile must be accompanied by compliance documents like copyright notices and license texts.
+*The whole questions revolves around who is in control of the software download (=distribution). It happens on the user‘s PC, after the user issues a “docker build”, but if you assign control over downloading to the Dockerfile‘s author (and there‘s a good argument to be made), the Dockerfile must be accompanied by compliance documents like copyright notices and license texts.*
 
 **What I heard:** Mercedes-Benz has open sourced their compliance tooling. Internally it is called disko, but that is bad branding clashing with other things, so they called their external project disuko (Japanese for disco). The u is silent, so it‘s disco again.
 
