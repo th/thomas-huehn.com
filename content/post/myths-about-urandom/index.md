@@ -8,7 +8,9 @@ tags:
 favorite: true
 ---
 <aside>
-<strong>Note from 2024:</strong> This article was published in 2014. It is still correct in its discussion of entropy and randomness, but the Linux kernel random number generator has been reworked several times since then and does not look like this anymore. Good news: the separation between /dev/urandom and /dev/random is practically gone. 
+<strong>Note from 2024:</strong> This article was published in 2014. It is still correct in its discussion of entropy and randomness, but the Linux kernel random number generator has been reworked several times since then and does not look like this anymore. Good news: the separation between /dev/urandom and /dev/random is practically gone.
+
+See also the retrospective at https://www.thomas-huehn.com/myths-about-urandom-revisited/.
 </aside>
 
 There are a few things about /dev/urandom and /dev/random that are repeated again and again. Still they are false.
