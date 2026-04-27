@@ -2,7 +2,9 @@ baseURL: 'https://www.thomas-huehn.com/'
 author: Thomas Hühn
 languageCode: 'en'
 title: 'Discoveries'
-theme: 'hugo-theme-th'
+module:
+    imports:
+        - path: github.com/th/hugo-theme-th
 
 titleCaseStyle: none
 
