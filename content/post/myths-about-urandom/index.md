@@ -1,7 +1,7 @@
 ---
 title: 'Myths about /dev/urandom'
 description: "Randomness, entropy, and the Linux kernel."
-date: 2014-03-15T23:00:00+00:00
+date: 2014-03-07T18:00:00+00:00
 tags:
   - linux
   - cryptography
