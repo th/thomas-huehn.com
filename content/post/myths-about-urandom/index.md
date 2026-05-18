@@ -23,26 +23,31 @@ I’m mostly talking about reasonably recent Linux systems, not other UNIX-like 
 
 **Fact:** /dev/urandom is the preferred source of cryptographic randomness on UNIX-like systems.
 <hr>
+
 **Myth:** /dev/urandom is a pseudo random number generator, a PRNG, while /dev/random is a “true” random number generator.
 
 [**Fact:**](#structure-of-linuxs-random-number-generator) Both /dev/urandom and /dev/random are using the exact same CSPRNG (a cryptographically secure pseudorandom number generator). They only differ in very few ways that have nothing to do with “true” randomness.
 <hr>
+
 **Myth:** /dev/random is unambiguously the better choice for cryptography. Even if /dev/urandom were comparably secure, there’s no reason to choose the latter.
 
 [**Fact:**](#whats-wrong-with-blocking) /dev/random has a very nasty problem: it blocks.
 <hr>
+
 **Myth:** But that’s good! /dev/random gives out exactly as much randomness as it has entropy in its pool. /dev/urandom will give you insecure random numbers, even though it has long run out of entropy.
 
 [**Fact:**](#what-about-entropy-running-low) No. Even disregarding issues like availability and subsequent manipulation by users, the issue of entropy “running low” is a straw man. About 256 bits of entropy are enough to get computationally secure numbers for a long, long time.
 
 And the fun only starts here: how does /dev/random know how much entropy there is available to give out? Stay tuned!
 <hr>
+
 **Myth:** But cryptographers always talk about constant re-seeding. Doesn’t that contradict your last point?
 
 [**Fact:**](#re-seeding) You got me! Kind of. It is true, the random number generator is constantly re-seeded using whatever entropy the system can lay its hands on. But that has (partly) other reasons.
 
 Look, I don’t claim that injecting entropy is bad. It’s good. I just claim that it’s bad to block when the entropy estimate is low.
 <hr>
+
 **Myth:** That’s all good and nice, but even the man page for /dev/(u)random contradicts you! Does anyone who knows about this stuff actually agree with you?
 
 [**Fact:**](#the-random-and-urandom-man-page) No, it really doesn’t. It seems to imply that /dev/urandom is insecure for cryptographic use, unless you really understand all that cryptographic jargon.
@@ -55,6 +60,7 @@ And yes, quite a few [experts](#orthodoxy) share my view that /dev/urandom is th
 
 Hard to believe, right? I must certainly be wrong! Well, read on and let me try to convince you.
 <hr>
+
 I tried to keep it out, but I fear there are two preliminaries to be taken care of, before we can really tackle all those points.
 
 Namely, [what is randomness](#true-randomness), or better: what kind of randomness am I talking about here?
