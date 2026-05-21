@@ -55,7 +55,7 @@ The draft of -1-1 renames trust boundary to security zone boundary. Trust bounda
 
 # Essential function
 
-This is the one I'm struggling most with today. And it doesn't help that discussions invariably confuse essential function with “the basic function of our product” (what the customer is buying the product for). In my experience it is difficult to get the point across that “essential function” is jargon, a normative term of art with a definition and several requirements around it, not just a colloquial phrase to be filled what's coming to mind first.
+This is the one I'm struggling most with today. And it doesn't help that discussions invariably confuse essential function with “the basic function of our product” (what the customer is buying the product for). In my experience it is difficult to get the point across that “essential function” is jargon, a normative term of art with a definition and several requirements around it, not just a colloquial phrase to be filled with what's coming to mind first.
 
 My big question: are all or most components expected to have essential functions? Or are essential functions a rare species? Since I'm mostly developing safety-related products, that question is moot (-4-2 3.1.20), but for automation products without safety functions or special needs of high availability?
 
@@ -63,6 +63,6 @@ If we put safety and environmental protection aside, the remaining application o
 
 The draft of -1-1 calls out essential functions as “high value equipment” (giving steam turbines as an example) and products with a special need for integrity (e.g. pharmaceuticals). Although we now get an entire chapter about essential functions (8.7), it does not clear up much.
 
-On the other hand, designing for essential functions needn't be burdensome for many components. The requirements around essential functions are basically that those unctions may not be impeded by security: the emergency stop really must work without the panicked human having to type in a password (-4-2 5.4.2, 11.2) and a few other things (-4-2 11.3.1, 11.3.2, 13.5.2). So it may not matter much in practice.
+On the other hand, designing for essential functions needn't be burdensome for many components. The requirements around essential functions are basically that those functions may not be impeded by security: the emergency stop really must work without the panicked human having to type in a password (-4-2 5.4.2, 11.2) and a few other things (-4-2 11.3.1, 11.3.2, 13.5.2). So it may not matter much in practice.
 
 My current thinking is that essential funktions are rarer than many people believe, and many components won't have any. But I'm very uncertain about that.
