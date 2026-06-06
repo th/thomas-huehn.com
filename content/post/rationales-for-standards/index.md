@@ -6,7 +6,7 @@ tags:
 description: "Few standards have rationales available. But they would be really helpful."
 image: ""
 aliases: []
-draft: true
+draft: false
 ---
 Some working groups for the standardisation of programming languages (like [Ada](http://www.ada-auth.org/standards/rationale12.html) or [C](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n802.pdf)) publish rationales. They explain the broader goals of their respective standard (or the current iteration of the standard), roads not taken, non-obvious problems with other approaches, and so on. Of course, they are only informative, not normative, because you want the normative part to be rather concise. That's not only because normative parts carry greater burdens of effort, but also because you want to make sure that explaining things in an easier way or giving a second, duplicative approach towards one issue should really not lead to contradictions.
 
