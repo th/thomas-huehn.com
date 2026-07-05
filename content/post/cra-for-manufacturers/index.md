@@ -17,6 +17,8 @@ I have decided to re-structure the requirements in such a way that the high-leve
 
 Additionally, I have broken up the paragraphs into the separate requirements. For example, Article 13 6. includes four requirements in two sentences: report vulnerabilities, remedy vulnerabilities, upstream the remedy, and use a machine-readable format.
 
+Please note that while the Cyber Resilience Act repeatedly requires you to report something to ENISA and/or to the relevant CSIRT, in practice you're not going to be reporting to them directly by mail or post. Pursuant to Article 16, ENISA is building a [Single Reporting Platform](https://www.enisa.europa.eu/topics/product-security-and-certification/single-reporting-platform-srp) that shall be used for reporting, both to ENISA and CSIRT. The distinction the Cyber Resilience Act makes between the two is therefore moot for reporting purposes.
+
 # Scope
 
 This document collates manufacturers's obligations under the Cyber Resilience Act, ignoring requirements for EU member states, the EU Commission, Notified Bodies, or Open Source Stewards.
@@ -26,9 +28,6 @@ The requirements listed in here are a minimum set, assuming that the product in 
 ## Exceptions
 
 Neither spare parts for individual one-to-one replacement, nor exhibiting products in development at trade fairs fall under these requirements. Beta-testing software is allowed without fulfilling the Cyber Resilience Act at that time, but this exception only applied to software products, and only if the software product is not safety-related!
-
-## Reporting
-Please note that while the Cyber Resilience Act repeatedly requires you to report something to ENISA and/or to the relevant CSIRT, in practice you're not going to be reporting to them directly by mail or post. Pursuant to Article 16, ENISA is building a [Single Reporting Platform](https://www.enisa.europa.eu/topics/product-security-and-certification/single-reporting-platform-srp) that shall be used for reporting, both to ENISA and CSIRT. The distinction the Cyber Resilience Act makes between the two is therefore moot for reporting purposes. 
 
 # Requirements
 
