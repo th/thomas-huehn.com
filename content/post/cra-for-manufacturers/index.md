@@ -27,6 +27,9 @@ The requirements listed in here are a minimum set, assuming that the product in 
 
 Neither spare parts for individual one-to-one replacement, nor exhibiting products in development at trade fairs fall under these requirements. Beta-testing software is allowed without fulfilling the Cyber Resilience Act at that time, but this exception only applied to software products, and only if the software product is not safety-related!
 
+## Reporting
+Please note that while the Cyber Resilience Act repeatedly requires you to report something to ENISA and/or to the relevant CSIRT, in practice you're not going to be reporting to them directly by mail or post. Pursuant to Article 16, ENISA is building a [Single Reporting Platform](https://www.enisa.europa.eu/topics/product-security-and-certification/single-reporting-platform-srp) that shall be used for reporting, both to ENISA and CSIRT. The distinction the Cyber Resilience Act makes between the two is therefore moot for reporting purposes. 
+
 # Requirements
 
 ## Life-cycle
@@ -205,7 +208,6 @@ reports [...] of the vulnerability handling processes (Annex VII 6.)
 - provide a copy of the EU declaration of conformity or a simplified EU declaration of conformity (Article 13 20.)
     - contain the exact internet address at which the full EU declaration of conformity can be accessed (Article 13 20.)
 - by any means available and to the extent possible, the users of the relevant products [cessation of operations] (Article 13 23.)
-- [severe incident] corrective or mitigating measures that users can take (Article 14 4. (b))
 - [actively exploited or severe incident] inform the impacted users (Article 14 8.)
     - where appropriate all users (Article 14 8.)
     - of any risk mitigation and corrective measures that the users can deploy to mitigate the impact of that vulnerability or incident (Article 14 8.)
