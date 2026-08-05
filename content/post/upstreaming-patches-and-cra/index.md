@@ -33,4 +33,4 @@ But the issue of “commercial activities” on a “sustained basis” makes co
 
 Starting December 2027 we are going to see how companies decide to handle it in practice.
 
-**Answers** I found later: https://www.thomas-huehn.com/upstreaming-patches-and-cra/
+**Answers** I found later: [https://www.thomas-huehn.com/upstreaming-patches-and-cra/](https://www.thomas-huehn.com/answers-upstreaming/)
