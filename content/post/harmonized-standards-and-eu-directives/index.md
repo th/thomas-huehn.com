@@ -1,7 +1,7 @@
 ---
 title: 'Harmonized standards and EU directives'
 description: "I explain the interplay between national laws and regulations with EU directives and regulations."
-date: 2014-03-01T23:00:00+00:00
+date: 2014-03-01
 tags:
   - european union
   - law

@@ -1,6 +1,6 @@
 ---
 title: "Terminology in IEC 62443"
-date: 2026-04-09T18:10:43+02:00
+date: 2026-04-09
 tags: 
   - security
   - standardisation

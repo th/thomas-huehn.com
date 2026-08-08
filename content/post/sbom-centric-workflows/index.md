@@ -1,7 +1,7 @@
 ---
 title: 'SBOM-centric workflows'
 description: "Musings on SBOM tooling."
-date: 2025-02-23T16:19:00+00:00
+date: 2025-02-23
 tags:
   - sbom
 ---

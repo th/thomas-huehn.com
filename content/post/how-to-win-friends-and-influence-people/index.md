@@ -1,7 +1,7 @@
 ---
 title: 'How to Win Friends & Influence People'
 description: "An old book on social skills."
-date: 2015-04-06T00:00:00+01:00
+date: 2015-04-06
 tags:
   - book
   - social skills

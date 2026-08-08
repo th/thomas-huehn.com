@@ -1,7 +1,7 @@
 ---
 title: 'Setting up a free server in Oracle Cloud'
 description: "Setup instructions for a free Oracle Cloud server."
-date: 2021-11-12T23:00:00+00:00
+date: 2021-11-12
 tags:
   - linux
 ---

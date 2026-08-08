@@ -1,7 +1,7 @@
 ---
 title: 'Myths about /dev/urandom, revisited'
 description: "Looking back at my most viewed article."
-date: 2025-04-13T05:06:00+00:00
+date: 2025-04-13
 tags:
   - linux
   - writing

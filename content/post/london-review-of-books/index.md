@@ -1,7 +1,7 @@
 ---
 title: 'London Review of Books'
 description: "The LRB is a great magazine!"
-date: 2022-10-14T22:00:00+00:00
+date: 2022-10-14
 tags:
   - magazine
 ---

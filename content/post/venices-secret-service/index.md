@@ -1,7 +1,7 @@
 ---
 title: "Venice's Secret Service"
 description: "A treatise on spy operations in Renaissance Venice."
-date: 2024-01-14T16:51:31+01:00
+date: 2024-01-14
 tags:
   - book
   - cryptography

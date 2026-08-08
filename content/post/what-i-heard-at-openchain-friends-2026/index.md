@@ -1,6 +1,6 @@
 ---
 title: "What I heard at OpenChain & Friends 2026"
-date: 2026-03-30T19:46:55+02:00
+date: 2026-03-30
 tags:
   - conference
   - open source

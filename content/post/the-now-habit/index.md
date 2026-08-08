@@ -1,7 +1,7 @@
 ---
 title: 'The Now Habit'
 description: "A systematic approach to overcoming procrastination."
-date: 2015-04-05T00:00:00+01:00
+date: 2015-04-05
 tags:
   - book
   - procrastination

@@ -1,7 +1,7 @@
 ---
 title: 'Back pain'
 description: "An esoteric approach to back pain."
-date: 2021-11-26T23:00:00+00:00
+date: 2021-11-26
 tags:
   - book
   - health

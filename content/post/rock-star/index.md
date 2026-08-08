@@ -1,7 +1,7 @@
 ---
 title: "Rock Star"
 description: "A rock star is not simply an effective employee."
-date: 2025-07-19T15:06:00+02:00
+date: 2025-07-19
 tags:
   - work
   - language

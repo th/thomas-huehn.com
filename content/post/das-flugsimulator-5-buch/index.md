@@ -1,6 +1,6 @@
 ---
 title: "Das Flugsimulator 5 Buch"
-date: 2025-12-21T07:47:58+01:00
+date: 2025-12-21
 tags:
   - book
   - computer game

@@ -1,6 +1,6 @@
 ---
 title: "CRA for Manufacturers"
-date: 2026-06-13T10:25:35+02:00
+date: 2026-06-13
 tags:
   - security
   - Cyber Resilience Act

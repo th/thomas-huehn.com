@@ -1,7 +1,7 @@
 ---
 title: 'Firewall in Oracle Cloud'
 description: "Opening up the firewall on Oracle Cloud."
-date: 2021-11-02T23:00:00+00:00
+date: 2021-11-02
 tags:
   - firewall
   - linux

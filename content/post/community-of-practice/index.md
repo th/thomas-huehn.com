@@ -1,7 +1,7 @@
 ---
 title: 'Community of Practice'
 description: "The Community of Practice: a misunderstood concept."
-date: 2025-01-28T16:42:00+00:00
+date: 2025-01-28
 tags:
   - work
   - learning

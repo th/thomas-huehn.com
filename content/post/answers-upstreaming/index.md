@@ -1,6 +1,6 @@
 ---
 title: "Answers to questions about upstreaming patches"
-date: 2026-04-14T12:42:36+02:00
+date: 2026-04-14
 tags:
   - security
   - open source

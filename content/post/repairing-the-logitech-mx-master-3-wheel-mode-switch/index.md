@@ -1,7 +1,7 @@
 ---
 title: 'Repairing the Logitech MX Master 3 wheel mode switch'
 description: "Great mouse, bad hardware design problem."
-date: 2021-12-26T23:00:00+00:00
+date: 2021-12-26
 tags:
   - hardware
 ---

@@ -1,6 +1,6 @@
 ---
 title: "What I heard at the Legal & Licensing Workshop 2026"
-date: 2026-04-22T12:14:09+02:00
+date: 2026-04-22
 tags: 
   - conference
   - open source

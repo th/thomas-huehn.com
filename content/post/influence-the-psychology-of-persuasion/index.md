@@ -1,7 +1,7 @@
 ---
 title: 'Influence – The Psychology of Persuasion'
 description: "An overview over persuading people."
-date: 2015-04-04T22:00:00+00:00
+date: 2015-04-04
 tags:
   - book
   - psychology

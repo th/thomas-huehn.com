@@ -1,7 +1,7 @@
 ---
 title: 'The Pyramid Principle'
 description: "The best business writing book."
-date: 2019-07-14T22:00:00+00:00
+date: 2019-07-14
 tags:
   - writing
 ---

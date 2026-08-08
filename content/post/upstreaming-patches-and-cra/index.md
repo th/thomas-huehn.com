@@ -1,6 +1,6 @@
 ---
 title: "Upstreaming patches and the Cyber Resilience Act"
-date: 2026-04-11T13:20:08+02:00
+date: 2026-04-11
 tags:
   - security
   - open source

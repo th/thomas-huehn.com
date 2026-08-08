@@ -1,7 +1,7 @@
 ---
 title: 'Four sources of Open Source compliance risk'
 description: "What can happen if you misuse Open Source software?"
-date: 2025-06-07T18:58:00+00:00
+date: 2025-06-07
 tags:
   - open source
 ---

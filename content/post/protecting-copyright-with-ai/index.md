@@ -1,6 +1,6 @@
 ---
 title: "Protecting copyright with AI"
-date: 2026-04-07T16:00:00+02:00
+date: 2026-04-07
 tags:
   - llm
   - law

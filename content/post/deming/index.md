@@ -1,7 +1,7 @@
 ---
 title: 'Statistical Process Control according to W. Edwards Deming'
 description: "An Introduction to Statistical Process Control."
-date: 2020-08-05T22:00:00+00:00
+date: 2020-08-05
 tags:
   - process control
   - quality

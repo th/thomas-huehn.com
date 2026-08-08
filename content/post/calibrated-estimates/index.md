@@ -1,7 +1,7 @@
 ---
 title: 'Calibrated Estimates'
 description: "What does it mean to calibrate your estimates?"
-date: 2024-10-04T08:48:00+00:00
+date: 2024-10-04
 tags:
   - estimation
   - project management

@@ -1,6 +1,6 @@
 ---
 title: "Knuth reward check"
-date: 2026-04-12T13:09:48+02:00
+date: 2026-04-12
 tags: 
   - book
 description: "Twenty years ago I got a reward check from Donald Knuth."

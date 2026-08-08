@@ -1,7 +1,7 @@
 ---
 title: "Beautifully illustrated children's books"
 description: "I curated a list of beautifully illustrated childrens' books."
-date: 2019-08-11T22:00:00+00:00
+date: 2019-08-11
 tags:
   - book
 ---

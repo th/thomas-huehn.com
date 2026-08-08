@@ -1,7 +1,7 @@
 ---
 title: '3:16 Bible Texts Illuminated'
 description: "Theology and Calligraphy."
-date: 2010-02-23T20:55:36+01:00
+date: 2010-02-23
 tags:
   - book
   - religion

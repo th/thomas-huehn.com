@@ -1,7 +1,7 @@
 ---
 title: 'New WordPress installation'
 description: "A list of things I do when installing WordPress."
-date: 2021-10-31T23:00:00+00:00
+date: 2021-10-31
 tags:
   - linux
   - wordpress

@@ -1,6 +1,6 @@
 ---
 title: "Rationales for Standards"
-date: 2026-06-06T09:50:59+02:00
+date: 2026-06-06
 tags:
   - standardisation
   - security

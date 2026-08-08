@@ -1,6 +1,6 @@
 ---
 title: "Open Source Lawyers and AI"
-date: 2026-04-06T14:55:00+02:00
+date: 2026-04-06
 tags:
   - open source
 description: "Is there a push away from Open Source or a pull towards AI?"

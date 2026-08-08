@@ -1,7 +1,7 @@
 ---
 title: 'Open Source projects could sell SBOM fragments'
 description: "Musings on SBOMs and licensing woes."
-date: 2025-02-17T16:08:24+00:00
+date: 2025-02-17
 tags:
   - sbom
   - open source

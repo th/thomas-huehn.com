@@ -1,7 +1,7 @@
 ---
 title: 'GPLv2 is not impressed by git'
 description: "A strange little problem with the GPLv2."
-date: 2025-03-28T16:38:08+00:00
+date: 2025-03-28
 tags:
   - open source
 ---

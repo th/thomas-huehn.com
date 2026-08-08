@@ -1,6 +1,6 @@
 ---
 title: "Statutory Copyleft"
-date: 2026-04-22T12:11:21+02:00
+date: 2026-04-22
 tags: 
   - open source
 description: "The EU's guidance on the CRA regarding licensing upstream security fixes looks a lot like copyleft."
