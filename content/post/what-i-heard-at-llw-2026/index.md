@@ -47,7 +47,7 @@ These are some things I heard at last week‘s FSFE Legal & Licensing Workshop i
 **What I heard:**
 You could re-implement the Apache webserver using AI, but why would you? Maybe trusted communities become more important.
 
-**What I heard:** Marking/tagging of AI-generated code is important.Developers don't like source code comments, because it clutters the source, so they use commit messages and pull request messages.<br>
+**What I heard:** Marking/tagging of AI-generated code is important. Developers don't like source code comments, because it clutters the source, so they use commit messages and pull request messages.<br>
 **What I heard:** This works only if inserted automatically, so that the deduction “no tag --> written by human” is correct.<br>
 *I [repeatedly](https://www.thomas-huehn.com/protecting-copyright-with-ai/) talked [about that,](https://www.thomas-huehn.com/what-i-heard-at-openchain-friends-2026/#ai) and it's the second time I've heard of a company doing that. The speaker strongly suggested everyone apply this strategy.*<br>
 **What I heard:** When the whole file is AI-generated, best not include a copyright header.<br>
