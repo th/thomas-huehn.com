@@ -5,6 +5,7 @@ date: 2021-10-31
 tags:
   - linux
   - wordpress
+  - web
 ---
 ## Create a new MySQL database
 
