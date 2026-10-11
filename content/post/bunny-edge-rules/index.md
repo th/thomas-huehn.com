@@ -14,9 +14,9 @@ Yesterday my [Knuth check post](https://www.thomas-huehn.com/knuth-reward-check/
 
 First, I tried doing a redirect from slashless to trailing slash using bunny.net's Edge rules, but couldn't get it to work. How do you express “has no trailing slash” when all you seem to have are wildcards? I abandoned that idea for the moment.
 
-Second, I fixed my Hugo markdown image render hook, so that the img  tag always uses a full path in its src attribute. I achieved this using the page bundle resource instead of the pure `.Destination`. At first I wanted to completely remove the hook, because I don't really need it anymore, but that alone did not help, which surprised me. Hugo is a beast, and it doesn't help that you find comments on the community forum that you should really put all your images into assets/, not the page bundle.
+Second, I fixed my Hugo markdown image render hook, so that the img  tag always uses a full path in its src attribute. I achieved this using the page bundle resource instead of the pure .Destination. At first I wanted to completely remove the hook, because I don't really need it anymore, but that alone did not help, which surprised me. Hugo is a beast, and it doesn't help that you find comments on the community forum that you should really put all your images into assets/, not the page bundle.
 
-That fixed the immediate problem, but I wasn't satisfied. There are still URL variations serving the same content, like adding index.html to the URL etc. I  decied to look into Edge rules documentation a bit closer, found Lua style regular expressions (and learned that you escape magic characters using % in Lua), and in a crucial last discovery, the attribute ``{{empty}}`` that can filter out files in the “File extension” condition.
+That fixed the immediate problem, but I wasn't satisfied. There are still URL variations serving the same content, like adding index.html to the URL etc. I  decied to look into Edge rules documentation a bit closer, found Lua style regular expressions (and learned that you escape magic characters using % in Lua), and in a crucial last discovery, the attribute {{empty}} that can filter out files in the “File extension” condition.
 
 In the end I settled on this, and fingers crossed, it seems to work:
 
@@ -25,7 +25,7 @@ In the end I settled on this, and fingers crossed, it seems to work:
 ### Trailing slash
 - Action: Redirect
   - Redirect URL: `https://%{Url.Hostname}%{Url.Directory}%{Url.FileName}/`
-  - Status Code: `301 - Default
+  - Status Code: `301 - Default`
 - Conditions (Match All)
   - Request URL (Match All): `pattern:^https?://www%.thomas%-huehn%.com/.+[^/]$`
   - File Extension (Match Any): `{{empty}}`
@@ -33,7 +33,7 @@ In the end I settled on this, and fingers crossed, it seems to work:
 ### Redirect index.html
 - Action: Redirect
   - Redirect URL: `https://%{Url.Hostname}%{Url.Directory}`
-  - Status Code: `301 - Default
+  - Status Code: `301 - Default`
 - Conditions (Match All)
   - Request URL (Match Any): `*/index.html*`
 
