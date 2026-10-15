@@ -65,4 +65,4 @@ The draft of -1-1 calls out essential functions as “high value equipment” (g
 
 On the other hand, designing for essential functions needn't be burdensome for many components. The requirements around essential functions are basically that those functions may not be impeded by security: the emergency stop really must work without the panicked human having to type in a password (-4-2 5.4.2, 11.2) and a few other things (-4-2 11.3.1, 11.3.2, 13.5.2). So it may not matter much in practice.
 
-My current thinking is that essential funktions are rarer than many people believe, and many components won't have any. But I'm very uncertain about that.
+My current thinking is that essential functions are rarer than many people believe, and many components won't have any. But I'm very uncertain about that.
